@@ -1,7 +1,7 @@
-export const DEFAULT_PLAYER_NAME = 'Garfield';
+export const DEFAULT_PLAYER_NAME = 'Tylan';
 
 export const DEFAULT_LEADERBOARD = [
-  { name: 'Garfield', score: 9000 },
+  { name: 'Tylan', score: 9000 },
   { name: 'Nermal', score: 7000 },
   { name: 'Odie', score: 5000 },
   { name: 'Arlene', score: 3000 }
